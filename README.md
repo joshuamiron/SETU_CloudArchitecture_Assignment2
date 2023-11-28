@@ -1,0 +1,2 @@
+# SETU_CloudArchitecture_Assignment2
+Assignment 2 Architecture Diagrams
